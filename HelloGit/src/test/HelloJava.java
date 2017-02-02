@@ -12,6 +12,9 @@ public class HelloJava {
 		
 		//지역저장소 내용 추가
 		System.out.println("Third commit work");
+		
+		// 원격저장소 내용 추가
+		System.out.println("GitHub Update");
 	}
 
 }
